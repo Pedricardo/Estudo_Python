@@ -13,3 +13,6 @@ elif IMC > 30 and IMC < 39.9:
         print("Seu IMC aponta: Obsesidade II", IMC)
 else: 
         print("Seu IMC aponta: Obsesidade GRAVE", IMC)
+        
+#odeio o yuri
+#briks
